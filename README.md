@@ -23,7 +23,7 @@ I'm a second-year Computer Science and Econometrics student at AGH in Kraków. I
 
 
 
-# 📊 GitHub Stats:
+## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=kaurbans&theme=algolia&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=kaurbans&theme=algolia&hide_border=false)<br/>
 
